@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = "http://http://pzio012023.studenti.sum.ba/backend/api";
+const baseUrl = "http://pzio012023.studenti.sum.ba/backend/api";
 
 const instance = axios.create({
     baseURL: baseUrl,
