@@ -49,8 +49,9 @@
                     mjestu, te da korisnik može sve lako pronaći i pregledati. Organizatorima 
                     nudi pregled svih igara, stvaranje svojih te brisanje istih. Korisnik može pronaći igru koju želi, sudjelovati, obrisati prijavu te još mnogo toga.</h2></v-sheet>
   <v-row><v-col>
-    <h1 class="pa-10" align="left">Baza podataka</h1>
-    <img width="600" class="ma-3" src="@/img/ES-DB.jpg">
+    <h1 class="pa-10" align="left">Baza podataka</h1></v-col></v-row>
+    <v-row><v-col cols="12">
+    <img style="max-width:100%" class="ma-2" src="@/img/ES-DB.jpg">
     </v-col></v-row>                  
   <h1 class="pa-10" align="left">Inspiracija</h1>
   <v-sheet
@@ -67,7 +68,7 @@
                     što će privući mnogo korisnika koji će nakon jedne odigrane igre ostat duže vrijeme.</h2></v-sheet>
   
   <h1 class="pa-10" align="left">Vizija</h1>
-  <v-row><v-col><a href="../src/img/Vizija.docx"><v-btn  style="background-color:teal" class="pa-16" outlined color="black">VIZIJA</v-btn></a>
+  <v-row><v-col><a href="https://github.com/Pero5511/FRONTEND/blob/main/src/img/Vizija.docx?raw=true"><v-btn  style="background-color:teal" class="pa-16" outlined color="black">VIZIJA</v-btn></a>
     </v-col></v-row>
   </div>
 </template>
